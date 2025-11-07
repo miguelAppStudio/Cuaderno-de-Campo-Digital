@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Cuaderno de Campo Digital",
+  "description": "Una aplicación para que los agricultores y ganaderos gestionen sus explotaciones, notas, productos y ganado de forma eficiente.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
